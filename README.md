@@ -39,14 +39,15 @@ O Linux é o meu SO Preferido, minha distribuição favorita é o KALI, por moti
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></a></code>
 <br/>
 
-<p align="center">
+### GITHUB STATS
+<p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nilsonvieira&show_icons=true&hide_border=true" alt="Github Stats">
 </p>  
 
-<div align="center">
+<div align="right">
   <h3 align="center">Conecte: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
-<p align="center">
+<p align="right">
  <a href="https://www.linkedin.com/in/nilsonrsvieira" target="blank">
   <img align="center" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
