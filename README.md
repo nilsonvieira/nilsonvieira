@@ -31,7 +31,8 @@ O Linux é o meu SO Preferido, minha distribuição favorita é o KALI, por moti
 - DevOps Essentials
 - DevOps Essentials Professional Certificate
 - SRE Essentials
-- Cloud Essentials <br/>
+- Cloud Essentials 
+<p/>
 [**MINHAS CERTIFICAÇÕES**](https://www.credential.net/profile/nilsonronierydasilvavieira973968/wallet#gs.ey4zpx)
 
 ### SISTEMA OPERACIONAL
