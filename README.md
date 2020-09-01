@@ -6,10 +6,33 @@ Meu primeiro emprego CLT foi com 17 anos e também lecionando em várias escolas
 
 O Linux é o meu SO Preferido, minha distribuição favorita é o KALI, por motivos óbvios.
 
-[**MINHAS CERTIFICAÇÕES**](https://www.credential.net/profile/nilsonronierydasilvavieira973968/wallet#gs.ey4zpx)
 <br/>
-
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
+### CERTIFICAÇÕES
+#### GOVERNANCE
+- IT Service Management Foundation based on ISO/IEC 20000
+#### SECURITY
+- Information Security Foundation based on ISO IEC 27001
+- NSE 1 Network Security Associate
+- NSE2 Network Security Associate
+- Cybersecurity Foundation
+- Certified Cybersecurity Analyst
+- PenTest Essentials
+- Ethical Hacking Essentials
+- Computer Forensics Foundation
+#### DEVOPS
+- Scrum Foundation Professional Certificate
+- Scrum Essentials
+- Scrum Fundamentals
+- Scrum Master Foundation
+- Scrum Product Owner Foundation
+- DevOps Lead v2
+- DevOps Essentials
+- DevOps Essentials Professional Certificate
+- SRE Essentials
+- Cloud Essentials
+[**MINHAS CERTIFICAÇÕES**](https://www.credential.net/profile/nilsonronierydasilvavieira973968/wallet#gs.ey4zpx)
 
 ### SISTEMA OPERACIONAL
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
