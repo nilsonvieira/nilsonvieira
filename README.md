@@ -11,27 +11,27 @@ O Linux é o meu SO Preferido, minha distribuição favorita é o KALI, por moti
 
 ### CERTIFICAÇÕES
 #### GOVERNANCE
-- IT Service Management Foundation based on ISO/IEC 20000
+- IT Service Management Foundation based on ISO/IEC 20000 (EXIN)
 #### SECURITY
-- Information Security Foundation based on ISO IEC 27001
-- NSE 1 Network Security Associate
-- NSE2 Network Security Associate
-- Cybersecurity Foundation
-- Certified Cybersecurity Analyst
-- PenTest Essentials
-- Ethical Hacking Essentials
-- Computer Forensics Foundation
+- Information Security Foundation based on ISO IEC 27001 (EXIN)
+- NSE 1 Network Security Associate (FORTNET)
+- NSE2 Network Security Associate (FORTNET)
+- Cybersecurity Foundation (ITCERTS)
+- Certified Cybersecurity Analyst (ITCERTS)
+- PenTest Essentials (ITCERTS)
+- Ethical Hacking Essentials (ITCERTS)
+- Computer Forensics Foundation (ITCERTS)
 #### DEVOPS
-- Scrum Foundation Professional Certificate
-- Scrum Essentials
-- Scrum Fundamentals
-- Scrum Master Foundation
-- Scrum Product Owner Foundation
-- DevOps Lead v2
-- DevOps Essentials
-- DevOps Essentials Professional Certificate
-- SRE Essentials
-- Cloud Essentials 
+- Scrum Foundation Professional Certificate (CERTPROF)
+- Scrum Essentials (ITCERTS)
+- Scrum Fundamentals (ITCERTS)
+- Scrum Master Foundation (ITCERTS)
+- Scrum Product Owner Foundation (ITCERTS)
+- DevOps Lead v2 (ITCERTS)
+- DevOps Essentials (ITCERTS)
+- DevOps Essentials Professional Certificate (CERTPROF)
+- SRE Essentials (ITCERTS)
+- Cloud Essentials (ITCERTS)
 <p/>
 [**MINHAS CERTIFICAÇÕES**](https://www.credential.net/profile/nilsonronierydasilvavieira973968/wallet#gs.ey4zpx)
 
