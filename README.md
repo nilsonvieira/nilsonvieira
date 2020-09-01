@@ -1,5 +1,4 @@
-### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-<em>Sou Graduado em Sistemas de Informação pela <a href="www.undb.edu.br"><b>UNDB - Unidade de Ensino Superior Dom Bosco</b></a>, Pós Graduado em Segurança da Informação e um apaxonado por Tecnologia.
+Sou Graduado em Sistemas de Informação pela <a href="www.undb.edu.br"><b>UNDB - Unidade de Ensino Superior Dom Bosco</b></a>, Pós Graduado em Segurança da Informação e um apaxonado por Tecnologia.
  
 Tive meu primeiro contato com um computador quando tinha 11 anos, em um curso comunitário do meu bairro. Com 12 anos eu estava lecionando de forma voluntária nessa mesma associação o que me trazia muito prazer e mais conhecimento.
 
