@@ -12,6 +12,11 @@ O Linux é o meu SO Preferido, minha distribuição favorita é o KALI, por moti
 
 ### PROGRAMAÇÃO
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
+
+<br/>
+
+### ESTUDANDO
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/perl/perl-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <br/>
@@ -30,11 +35,8 @@ O Linux é o meu SO Preferido, minha distribuição favorita é o KALI, por moti
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></a></code>
 <br/>
 
-## 🌱 Estou Estudando Atualmente ...
-- Python ❤️
-- Perl
-<br/>
-  <br/>
+
+
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
