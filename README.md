@@ -1,33 +1,60 @@
-<!--
-**nilsonvieira/nilsonvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
+<em>Sou Graduado em Sistemas de Informação pela <a href="www.undb.edu.br"><b>UNDB - Unidade de Ensino Superior Dom Bosco</b></a>, Pós Graduado em Segurança da Informação e um apaxonado por Tecnologia.
+Tive meu primeiro contato com um computador quando tinha 11 anos, em um curso comunitário do meu bairro. Com 12 anos eu estava lecionando de forma voluntária nessa mesma associação o que me trazia muito prazer e mais conhecimento.
+Meu primeiro emprego CLT foi com 17 anos e também lecionando em várias escolas de informática da capital Maranhense.
+O Linux :tux: é o meu SO Preferido, minha distribuição favorita é o KALI, por motivos óbvios
+ <br/>
 
-Here are some ideas to get you started:
+### PROGRAMAÇÃO
+#### Apredendo Sempre
+- Python ❤️
+- Perl
+#### Domino
+- Bash (Shell Scripting )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-### REDES SOCIAIS
-<br />
-<a href="https://www.linkedin.com/in/nilsonrsvieira/">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.twitter.com/nilsonrsvieira">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/nilsonrsvieira/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/nilsonrsvieira">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a> <br />
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+<br/><br/>
 
-### LINGUAGENS
+## 🌱 I’m currently learning ...
+- **Data Science**
+- **AI**
+<br/>
+  <br/>
 
-![Nilson R S Vieira github stats](https://github-readme-stats.vercel.app/api?username=nilsonvieira&show_icons=true&hide_border=true)
+
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+</p>  
+
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+<p align="center">
+ <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
+  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://twitter.com/pramod2107" target="blank">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://medium.com/@pramodrana2107" target="blank">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+ </a> 
+  <br/>
+  <br/>
+  Thanks for stopping by 😁<br/>
+</p>
+<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
+<br/>
+<p>
+Visit my profile and give a ⭐️ if you like it</p>
+
+⭐️ From [rajput2107](https://github.com/rajput2107)
