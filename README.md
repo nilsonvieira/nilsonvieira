@@ -5,9 +5,11 @@ Tive meu primeiro contato com um computador quando tinha 11 anos, em um curso co
 Meu primeiro emprego CLT foi com 17 anos e também lecionando em várias escolas de informática da capital Maranhense.
 
 O Linux é o meu SO Preferido, minha distribuição favorita é o KALI, por motivos óbvios
- <br/>
-
+<br/>
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+### SISTEMA OPERACIONAL
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<br/>
 
 ### PROGRAMAÇÃO
 #### DIA A DIA
@@ -16,16 +18,11 @@ O Linux é o meu SO Preferido, minha distribuição favorita é o KALI, por moti
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
-
 <br/>
 
 #### ESTUDANDO
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/perl/perl-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<br/>
-
-### SISTEMA OPERACIONAL
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <br/>
 
 ### FERRAMENTAS DEVOPS
