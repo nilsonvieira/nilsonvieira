@@ -9,13 +9,15 @@ O Linux :tux: é o meu SO Preferido, minha distribuição favorita é o KALI, po
  <br/>
 
 ### PROGRAMAÇÃO
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 - Bash (Shell Scripting )
 <br />
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a></code>
 <br/>
 
 ## 🌱 Estou Estudando Atualmente ...
