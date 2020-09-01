@@ -4,7 +4,8 @@ Tive meu primeiro contato com um computador quando tinha 11 anos, em um curso co
 
 Meu primeiro emprego CLT foi com 17 anos e também lecionando em várias escolas de informática da capital Maranhense.
 
-O Linux é o meu SO Preferido, minha distribuição favorita é o KALI, por motivos óbvios
+O Linux é o meu SO Preferido, minha distribuição favorita é o KALI, por motivos óbvios.
+
 [**MINHAS CERTIFICAÇÕES**](https://www.credential.net/profile/nilsonronierydasilvavieira973968/wallet#gs.ey4zpx)
 <br/>
 
