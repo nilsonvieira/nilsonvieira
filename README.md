@@ -8,15 +8,18 @@ Meu primeiro emprego CLT foi com 17 anos e também lecionando em várias escolas
 O Linux é o meu SO Preferido, minha distribuição favorita é o KALI, por motivos óbvios
  <br/>
 
-### PROGRAMAÇÃO
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
+### PROGRAMAÇÃO
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/perl/perl-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <br/>
+
 ### SISTEMA OPERACIONAL
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <br/>
+
 ### FERRAMENTAS DEVOPS
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
