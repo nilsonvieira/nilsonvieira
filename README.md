@@ -32,6 +32,7 @@ O Linux é o meu SO Preferido, minha distribuição favorita é o KALI, por moti
 - DevOps Essentials Professional Certificate (CERTPROF)
 - SRE Essentials (ITCERTS)
 - Cloud Essentials (ITCERTS)
+- KanBan Foundation Certificate - KIKF™ (CERTIPROF)
 <p/>
 [**MINHAS CERTIFICAÇÕES**](https://www.credential.net/profile/nilsonronierydasilvavieira973968/wallet#gs.ey4zpx)
 
