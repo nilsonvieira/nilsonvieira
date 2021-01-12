@@ -34,7 +34,6 @@ O Linux é o meu SO Preferido, minha distribuição favorita é o KALI, por moti
 - Cloud Essentials (ITCERTS)
 - KanBan Foundation Certificate - KIKF™ (CERTIPROF)
 <p/>
-[**MINHAS CERTIFICAÇÕES**](https://www.credential.net/profile/nilsonronierydasilvavieira973968/wallet#gs.ey4zpx)
 
 ### SISTEMA OPERACIONAL
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
