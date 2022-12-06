@@ -1,16 +1,26 @@
-Sou Graduado em Sistemas de Informação pela <a href="www.undb.edu.br"><b>UNDB - Unidade de Ensino Superior Dom Bosco</b></a>, Pós Graduado em Segurança da Informação e um apaxonado por Tecnologia.
+### Hi there 👋
+
+#### I'm a DevOps Enginner working in São Luis - MA, Brazil.
+
+##### Bio
+
+- I have a degree in Information Systems from <a href="www.undb.edu.br"><b>UNDB - Unidade de Ensino Superior Dom Bosco</b></a>, a postgraduate degree in Information Security and a passionate by Technology.
  
-Tive meu primeiro contato com um computador quando tinha 11 anos, em um curso comunitário do meu bairro. Com 12 anos eu estava lecionando de forma voluntária nessa mesma associação o que me trazia muito prazer e mais conhecimento.
+I had my first contact with a computer when I was 11 years old, in a community course in my neighborhood. At the age of 12, I was intentionally teaching at the same association, which brought me much pleasure and more knowledge.
 
-Meu primeiro emprego CLT foi com 17 anos e também lecionando em várias escolas de informática da capital Maranhense.
+My first CLT job was at the age of 17 and also teaching at several computer schools in the capital of Maranhão.
 
-O Linux é o meu SO Preferido, minha distribuição favorita é o Pop!OS.
-## REPOSITÓRIOS
-O GitHub é expetacular, mas eu gosto de salvar meus códigos no Bitbucket. Vai lá!
+Linux is my Favorite OS, my favorite distribution is Pop!OS, but I work daily with MacOs and Windows OS. ;)
 
-https://bitbucket.org/nilsonvieira/
 
-### CONECTE
+- 🏢 I'm currently working at **Grupo Mateus**
+- ⚙️ I use daily: `.sh`, `.js`, `.cpp`, `.go`, `.py`, `.jar`
+- 🌍 I'm mostly active within the **DevOps Culture in My Organization**
+- 🌱 Reading all about **Open Source, DevOps, Clean Architecture, Cloud Computing and more...**
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter and Lord Of Kings and **Geek Culture**.
+- ✨ My Website is [Nilson Vieira](https://nilsonvieira.com.br);
+
+##### Follow Me
  <a href="https://www.linkedin.com/in/nilsonrsvieira" target="blank">
   <img align="center" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
@@ -23,7 +33,3 @@ https://bitbucket.org/nilsonvieira/
  <a href="https://medium.com/@nilsonrsvieira" target="blank">
  <img align="center" alt="Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a> 
- <a href="https://bitbucket.org/nilsonvieira/" target="blank">
- <img align="center" alt="Medium" width="30px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" />
- </a> 
-
