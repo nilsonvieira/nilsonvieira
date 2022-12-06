@@ -14,7 +14,7 @@ Linux is my Favorite OS, my favorite distribution is Pop!OS, but I work daily wi
 
 
 - 🏢 I'm currently working at **Grupo Mateus**
-- ⚙️ I use daily: `.sh`, `.js`, `.cpp`, `.go`, `.py`, `.jar`
+- ⚙️ I use daily: `.sh`, `.js`, `.cpp`, `.go`, `.py`, `.jar`, `.tf`, `.yaml`, `.json`
 - 🌍 I'm mostly active within the **DevOps Culture in My Organization**
 - 🌱 Reading all about **Open Source, DevOps, Clean Architecture, Cloud Computing and more...**
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter and Lord Of Kings and **Geek Culture**.
