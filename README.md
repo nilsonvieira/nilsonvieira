@@ -4,7 +4,7 @@
 
 ##### Bio
 
-- I have a degree in Information Systems from <a href="www.undb.edu.br"><b>UNDB - Unidade de Ensino Superior Dom Bosco</b></a>, a postgraduate degree in Information Security and a passionate by Technology.
+I have a degree in Information Systems from <a href="www.undb.edu.br"><b>UNDB - Unidade de Ensino Superior Dom Bosco</b></a>, a postgraduate degree in Information Security and a passionate by Technology.
  
 I had my first contact with a computer when I was 11 years old, in a community course in my neighborhood. At the age of 12, I was intentionally teaching at the same association, which brought me much pleasure and more knowledge.
 
