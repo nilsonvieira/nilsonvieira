@@ -33,3 +33,6 @@ Linux is my Favorite OS, my favorite distribution is Pop!OS, but I work daily wi
  <a href="https://medium.com/@nilsonrsvieira" target="blank">
  <img align="center" alt="Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a> 
+  <a href="[https://medium.com/@nilsonrsvieira](https://gitlab.com/nilsonrsvieira)" target="blank">
+ <img align="center" alt="Medium" width="30px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
+ </a> 
