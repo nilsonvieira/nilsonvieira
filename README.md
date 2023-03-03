@@ -24,15 +24,9 @@ Linux is my Favorite OS, my favorite distribution is Pop!OS, but I work daily wi
  <a href="https://www.linkedin.com/in/nilsonrsvieira" target="blank">
   <img align="center" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://www.instagram.com/nilsonrsvieira/" target="blank">
-  <img align="center" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://twitter.com/nilsonrsvieira" target="blank">
-  <img align="center" alt="Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
- </a>
  <a href="https://medium.com/@nilsonrsvieira" target="blank">
  <img align="center" alt="Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />  &nbsp; &nbsp;
  </a> 
-  <a href="[https://medium.com/@nilsonrsvieira](https://gitlab.com/nilsonrsvieira)" target="blank">
- <img align="center" alt="Medium" width="30px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />  &nbsp; &nbsp;
+ <a href="[https://medium.com/@nilsonrsvieira](https://gitlab.com/nilsonrsvieira)" target="blank">
+ <img align="center" alt="Gitlab" width="30px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />  &nbsp; &nbsp;
  </a> 
